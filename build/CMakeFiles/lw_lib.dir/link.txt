@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblw_lib.a  CMakeFiles/lw_lib.dir/src/Angle.cpp.o CMakeFiles/lw_lib.dir/src/windows.cpp.o CMakeFiles/lw_lib.dir/src/Brief.cpp.o CMakeFiles/lw_lib.dir/src/orb_tree.cpp.o
+/usr/bin/ranlib liblw_lib.a

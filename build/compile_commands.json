@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/zoulee/c++_codes/2021论文/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/usr/local/include/opencv4 -I/home/zoulee/c++_codes/2021论文/include  -std=c++11 -O3 -DNDEBUG   -o CMakeFiles/lw_lib.dir/src/Angle.cpp.o -c /home/zoulee/c++_codes/2021论文/src/Angle.cpp",
+  "file": "/home/zoulee/c++_codes/2021论文/src/Angle.cpp"
+},
+{
+  "directory": "/home/zoulee/c++_codes/2021论文/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/usr/local/include/opencv4 -I/home/zoulee/c++_codes/2021论文/include  -std=c++11 -O3 -DNDEBUG   -o CMakeFiles/lw_lib.dir/src/windows.cpp.o -c /home/zoulee/c++_codes/2021论文/src/windows.cpp",
+  "file": "/home/zoulee/c++_codes/2021论文/src/windows.cpp"
+},
+{
+  "directory": "/home/zoulee/c++_codes/2021论文/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/usr/local/include/opencv4 -I/home/zoulee/c++_codes/2021论文/include  -std=c++11 -O3 -DNDEBUG   -o CMakeFiles/lw_lib.dir/src/Brief.cpp.o -c /home/zoulee/c++_codes/2021论文/src/Brief.cpp",
+  "file": "/home/zoulee/c++_codes/2021论文/src/Brief.cpp"
+},
+{
+  "directory": "/home/zoulee/c++_codes/2021论文/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/usr/local/include/opencv4 -I/home/zoulee/c++_codes/2021论文/include  -std=c++11 -O3 -DNDEBUG   -o CMakeFiles/lw_lib.dir/src/orb_tree.cpp.o -c /home/zoulee/c++_codes/2021论文/src/orb_tree.cpp",
+  "file": "/home/zoulee/c++_codes/2021论文/src/orb_tree.cpp"
+},
+{
+  "directory": "/home/zoulee/c++_codes/2021论文/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -isystem /usr/local/include/opencv4 -I/home/zoulee/c++_codes/2021论文/include  -std=c++11 -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/test1.dir/test/test_angle_new.cpp.o -c /home/zoulee/c++_codes/2021论文/test/test_angle_new.cpp",
+  "file": "/home/zoulee/c++_codes/2021论文/test/test_angle_new.cpp"
+}
+]
